@@ -153,7 +153,8 @@ public final class Property implements StaticTypedSlot, StaticTypedRef {
   }
 
   boolean isFromExterns() {
-    return propertyNode == null ? false : propertyNode.isFromExterns();
+    return true;
+    //return propertyNode == null ? false : propertyNode.isFromExterns();
   }
 
   void setType(JSType type) {
