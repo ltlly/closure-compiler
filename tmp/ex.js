@@ -1,0 +1,4 @@
+
+
+const wx = {}
+const java = {}

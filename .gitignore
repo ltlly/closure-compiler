@@ -13,3 +13,6 @@ build/
 dependency-reduced-pom.xml
 junit*.properties
 target/
+/.idea
+/.ijwb
+
