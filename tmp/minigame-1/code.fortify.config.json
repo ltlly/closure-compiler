@@ -1,0 +1,32 @@
+{
+  "plugin_protect": {
+    "name": "外挂防护",
+    "files": []
+  },
+  "watermark": {
+    "name": "水印保护",
+    "files": [
+    ]
+  },
+  "obfuscation": {
+    "name": "代码混淆",
+    "tasks": [
+      {
+        "level": 1,
+        "files": [
+          "js/npc/enemy.js"
+        ]
+      },
+      {
+        "level": 2,
+        "files": [
+        ]
+      },
+      {
+        "level": 3,
+        "files": [
+        ]
+      }
+    ]
+  }
+}
